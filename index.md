@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Text can be **bold**, _italic_, or ~~strikethrough~~.Mandeep Kaur - Student number: 4401757
 
 [Link to another page](./another-page.html).
 
